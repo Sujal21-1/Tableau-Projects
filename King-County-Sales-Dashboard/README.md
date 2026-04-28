@@ -1,17 +1,19 @@
 ## King County Housing Market Analysis (Tableau Dashboard)
 
-This project analyzes residential housing sales data in King County to identify pricing trends, geographic differences, and market patterns over time. The goal was to understand how home values vary by location and how the market has changed across different periods.
+This project analyzes residential housing sales data in King County to identify pricing trends, geographic variation, and overall market behavior over time. The objective is to understand how property values differ by location and how the housing market evolves across different time periods.
 
+## Key Insights
+Home prices are significantly higher in central urban areas compared to surrounding regions
+Sales activity exhibits clear seasonal patterns, with higher transaction volumes during peak months
+Larger properties and homes with superior features consistently command higher market prices
+Certain zip codes show stronger price appreciation, indicating high-demand and high-growth areas
+## Project Overview
 
-## Key Insights:
+An interactive Tableau dashboard was developed to enable dynamic exploration of the dataset. Users can analyze pricing distributions, compare geographic regions, and examine sales trends over time using filters and interactive visualizations.
 
-- Home prices are significantly higher in central urban areas compared to surrounding regions
-
-- Sales activity shows clear seasonal trends, with higher transaction volumes during peak months
-
-- Larger properties and homes with better features consistently command higher prices
-
-- Certain zip codes demonstrate stronger price growth, indicating high-demand areas
-
-## Project Overview:
-An interactive Tableau dashboard was developed to allow users to explore pricing patterns, compare locations, and analyze sales trends over time through filters and dynamic visuals.
+## Skills Demonstrated
+Geographic and spatial data analysis
+Time-series trend analysis
+KPI development and market segmentation
+Interactive dashboard design in Tableau
+Real estate market data interpretation
